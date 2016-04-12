@@ -5,4 +5,9 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
+
+}
+
+a.menu_links {
+    cursor: pointer;
 }
